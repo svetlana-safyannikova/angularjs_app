@@ -1,0 +1,9 @@
+<div class="container-linear">
+	<div class = "left-arrow" ng-click="prevItem()"></div>
+        <div class = "img-container" >  
+		<div class = "column" ng-repeat="item in shownItems">
+		    <img class = "thumb-image" ng-src="{{item.thumbUrl}}" alt="{{item.name}}" />
+		</div>
+        </div>
+	<div class = "right-arrow" ng-click="nextItem()"></div>
+</div>

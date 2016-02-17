@@ -1,0 +1,104 @@
+[
+
+	{
+                "id": "paul-smith-printed-cropped-jean", 
+        	"imageUrl": "img/paul-smith-printed-cropped-jean.jpg",
+        	"thumbUrl": "thumb/paul-smith-printed-cropped-jean.jpg", 
+        	"name": "Paul Smith Printed Cropped Jean",
+                "category": "jeans",
+                "shop-url": "http://www.gilt.com/brand/paul-smith/product/1113869279-paul-smith-printed-cropped-jean?origin=partner_feed&utm_source=polyvore&utm_medium=affiliate&utm_campaign=affiliate:polyvore&utm_content=Printed+Cropped+Jean",
+                "price": "5717.52"
+
+        },
+	{
+                "id": "current-elliott-the-stiletto-ankle-jeans-patchwork", 
+        	"imageUrl": "img/current-elliott-the-stiletto-ankle-jeans-patchwork.jpg",
+        	"thumbUrl": "thumb/current-elliott-the-stiletto-ankle-jeans-patchwork.jpg", 
+        	"name": "Current/Elliott The Stiletto Ankle Jeans, Patchwork",
+                "category": "jeans",
+                "shop-url": "http://www.neimanmarcus.com/CurrentElliott-The-Stiletto-Ankle-Jeans-Patchwork/prod180100053/p.prod?ecid=NMAHy3bqNL2jtQ&CS_003=5630585",
+                "price": "7570"
+
+        },
+	{
+                "id": "giuseppe-zanotti-sneakers-velluto-e-vernice", 
+        	"imageUrl": "img/giuseppe-zanotti-sneakers-velluto-e-vernice.jpg",
+        	"thumbUrl": "thumb/giuseppe-zanotti-sneakers-velluto-e-vernice.jpg", 
+        	"name": "Giuseppe Zanotti Sneakers velluto e vernice",
+                "category": "shoes",
+                "shop-url": "http://www.lindelepalais.com/en-US/product/50494",
+                "price": "61640"
+
+        },
+	{
+                "id": "green-v-neck-bow-tie-short-sleeve-blouse", 
+        	"imageUrl": "img/green-v-neck-bow-tie-short-sleeve-blouse.jpg",
+        	"thumbUrl": "thumb/green-v-neck-bow-tie-short-sleeve-blouse.jpg", 
+        	"name": "Green V Neck Bow Tie Short Sleeve Blouse",
+                "category": "tops",
+                "shop-url": "http://www.choies.com/product/green-v-neck-bow-tie-short-sleeve-blouse_p50140",
+                "price": "1515"
+
+        },
+	{
+                "id": "j-brand-women's-mid-rise-distressed-crop-skinny-jeans-dropout-indigo", 
+        	"imageUrl": "img/j-brand-women's-mid-rise-distressed-crop-skinny-jeans-dropout-indigo.jpg",
+        	"thumbUrl": "thumb/j-brand-women's-mid-rise-distressed-crop-skinny-jeans-dropout-indigo.jpg",  
+        	"name": "J Brand Women's Mid Rise Distressed Crop Skinny Jeans - Dropout Indigo",
+                "category": "jeans",
+                "shop-url": "http://www.coggles.com/womens-jeans/j-brand-women-s-mid-rise-distressed-crop-skinny-jeans-dropout-indigo/11086360.html",
+                "price": "12945"
+
+        },
+	{
+                "id": "miu-miu-embellished-cotton-poplin-blouse", 
+        	"imageUrl": "img/miu-miu-embellished-cotton-poplin-blouse.jpg",
+        	"thumbUrl": "thumb/miu-miu-embellished-cotton-poplin-blouse.jpg",  
+        	"name": "Miu Miu Embellished cotton-poplin blouse",
+                "category": "tops",
+                "shop-url": "https://www.net-a-porter.com/ru/en/product/659854?cm_mmc=LinkshareUK-_-Hy3bqNL2jtQ-_-Custom-_-LinkBuilder&siteID=Hy3bqNL2jtQ-2LAbAI1k3ruH3QPnXocBRw",
+                "price": "87905"
+
+        },
+	{
+                "id": "paul-smith-women-white-denim-skinny-fit-jeans", 
+        	"imageUrl": "img/paul-smith-women-white-denim-skinny-fit-jeans.jpg",
+        	"thumbUrl": "thumb/paul-smith-women-white-denim-skinny-fit-jeans.jpg", 
+        	"name": "Paul Smith Women's White Denim Skinny-Fit Jeans",
+                "category": "jeans",
+                "shop-url": "http://www.paulsmith.co.uk/uk-en/shop/womens/trousers-shorts/women-s-white-denim-skinny-fit-jeans.html",
+                "price": "17260"
+
+        },
+	{
+                "id": "puma-trinomic-r698-exotic-basketball-sneaker", 
+        	"imageUrl": "img/puma-trinomic-r698-exotic-basketball-sneaker.jpg",
+        	"thumbUrl": "thumb/puma-trinomic-r698-exotic-basketball-sneaker.jpg", 
+        	"name": "PUMA Trinomic R698 Exotic Basketball Sneaker",
+                "category": "shoes",
+                "shop-url": "http://shop.nordstrom.com/Linkshare?siteid=Hy3bqNL2jtQ-Etx0yYDQU4M2SREQJ4Wraw&url=http%3A%2F%2Fshop.nordstrom.com%2FS%2F4163484%3Fcm_mmc%3DPolyvoreExplore-_-datafeed-_-women%3Ashoes%3Asneaker-_-5031624%26cm_ven%3DLinkshare%26cm_cat%3Dpartner%26cm_pla%3D10%26cm_ite%3D1",
+                "price": "7190"
+
+        },
+	{
+                "id": "tie-neck-blouse", 
+        	"imageUrl": "img/tie-neck-blouse.jpg",
+        	"thumbUrl": "thumb/tie-neck-blouse.jpg", 
+        	"name": "Tie Neck Blouse",
+                "category": "tops",
+                "shop-url": "http://www.yoins.com/Tie-Neck-Blouse-p-1006473.html",
+                "price": "1708"
+
+        },
+	{
+                "id": "vans-classic-disney-alice-in-wonderland-slip-on-sneaker", 
+        	"imageUrl": "img/vans-classic-disney-alice-in-wonderland-slip-on-sneaker.jpg",
+        	"thumbUrl": "thumb/vans-classic-disney-alice-in-wonderland-slip-on-sneaker.jpg",  
+        	"name": "Vans Classic - Disney Alice in Wonderland Slip-On Sneaker",
+                "category": "shoes",
+                "shop-url": "http://shop.nordstrom.com/Linkshare?siteid=Hy3bqNL2jtQ-PzVpu6Xu.ZYg8FDzwHoMYQ&url=http%3A%2F%2Fshop.nordstrom.com%2FS%2F4103133%3Fcm_mmc%3DPolyvoreExplore-_-datafeed-_-women%3Ashoes%3Asneaker-_-1172566%26cm_ven%3DLinkshare%26cm_cat%3Dpartner%26cm_pla%3D10%26cm_ite%3D1",
+                "price": "4540"
+
+        }
+]
+
